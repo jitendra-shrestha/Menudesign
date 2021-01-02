@@ -4,6 +4,6 @@ Menu design with HTML and CSS
 
 # Getting Started
 
-Menudesign <a href="https://tjiten123.github.io/Menudesign/">preview</a> 
+Menudesign <a href="https://jitendra-shrestha.github.io/Menudesign/">preview</a> 
 
 
